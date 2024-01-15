@@ -7,7 +7,7 @@ using namespace GeometricEntity;
 bool MaxYDifferenceComparator::operator()(const std::vector<Point3D>& v1, const std::vector<Point3D>& v2) const {
     float maxYV1 = -12345678.0f;
     float maxYV2 = -12345678.0f;
-
+    //compare the current element with maximum and minimum elements.
     for (int i = 0; i < v1.size(); i++) {
         if (v1[i].y() > maxYV1) maxYV1 = v1[i].y();
     }
