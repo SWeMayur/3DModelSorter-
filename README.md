@@ -1,6 +1,6 @@
 # 3D Model Visualizer
 
-###Problem Statement
+### Problem Statement
 The 3D Model Sorter Based On Geometrical Information is a QT and OpenGL based project which is used to render 3D STL models and perform sort operation based on some geometrical parameters like heigh of STL model and some other parameters like cost and year of establishment.
 The 3D Model Visualizer is a Qt-based application that allows users to visualize and interact with 3D models. The application provides a user-friendly interface for rendering and sorting 3D models based on various parameters such as height, construction cost, and year of establishment. It leverages the Qt framework and OpenGL for graphics rendering.
 
