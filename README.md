@@ -120,5 +120,6 @@ If you would like to contribute to the project, please follow the standard GitHu
 ![Reader](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/9d976edf-d0b3-4c70-b8bd-fae0f4457e2e)
 
 ## Output Video
-https://github.com/SWeMayur/3DModelSorter-/assets/149293586/8af538a8-ff8e-4220-8dee-02b49e67410b
+
+https://github.com/SWeMayur/3DModelSorter-/assets/149293586/d47d895c-8e16-43cb-bf91-aec40daab04a
 
