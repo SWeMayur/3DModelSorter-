@@ -108,14 +108,17 @@ If you would like to contribute to the project, please follow the standard GitHu
 2. Create a new branch for your feature or bug fix.
 3. Make your changes.
 4. Submit a pull request to the main repository.
+
+## Architecture Class Diagrams
 ![3D_Model_Sorter](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/ede30b56-1cb5-4113-be8d-271d06160555)
+![Comparators](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/450ee583-40dd-4595-bedf-25918417f6d9)
 
 
 ![ClassDiagram](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/31f84a57-9562-471c-883d-969146304c27)
-![Comparators](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/252bfc7b-bc77-4540-
+
 ![Geometry](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/2a15c233-7f55-4d86-8a52-088e2390c2a9)
 ![Reader](https://github.com/SWeMayur/3DModelSorter-/assets/149293586/9d976edf-d0b3-4c70-b8bd-fae0f4457e2e)
 
-
+## Output Video
 https://github.com/SWeMayur/3DModelSorter-/assets/149293586/8af538a8-ff8e-4220-8dee-02b49e67410b
 
