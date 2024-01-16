@@ -23,8 +23,8 @@ The 3D Model Visualizer is a Qt-based application that allows users to visualize
 - [Dependencies](#dependencies)
 - [Building and Running](#building-and-running)
 - [Contributing](#contributing)
-- [License](#license)
-
+- [Architecture Class Diagrams](#Architecture-Class-Diagrams)
+- [Output Video](#Output-Video)
 ## Overview
 
 The project is organized into several components:
